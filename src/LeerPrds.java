@@ -1,4 +1,5 @@
-
+//Rony Gustavo Molina Hernandez 
+//2024-1679U
  import java.util.Scanner;
        
        public class LeerPrds {
